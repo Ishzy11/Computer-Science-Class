@@ -4,6 +4,18 @@ The computer science career that i want to perssue is Software Design and Archit
 # 8/23
 
 ```python
-for i in range(5):
-  print("yay")
+speed(0)
+postions = [
+    (-100,-200),
+    (0,-200),
+    (100,-200),
+    (-50,-100),
+    (50,-100),
+    (0,0)
+    ]
+for i in range(6):
+    penup()
+    setposition(postions[i][0], postions[i][1])
+    pendown()
+    circle(50)
 ```
