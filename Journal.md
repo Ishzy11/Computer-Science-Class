@@ -19,3 +19,8 @@ for i in range(6):
     pendown()
     circle(50)
 ```
+
+# 8/24
+we used our phones to control robotic spheres. and coded a zumi robot u
+
+# 8/25
